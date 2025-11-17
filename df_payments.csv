@@ -1,0 +1,4 @@
+﻿base_date;account_id;payment_date;invoice_status;value
+04/02/2024;123;;pending;405,15
+05/02/2024;124;;pending;1533,01
+06/02/2024;125;10/02/2024;paid;105,36
